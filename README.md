@@ -1,4 +1,4 @@
-# FCIH_Parallel_Fall2019_Parallel-Breadth-First-Search_20160240
+# FCIH_Parallel_Fall2019_Parallel-Breadth-First-Search_20160420
 
 The breadth first search algorithm: is a way to explore the vertexes of a graph layer by layer.
 
