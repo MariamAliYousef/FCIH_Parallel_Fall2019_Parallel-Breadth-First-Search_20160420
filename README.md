@@ -16,5 +16,5 @@ Parallel breadth first search:
 
 Team names:
 - Mariam Ali Yousef   => 20160420
-- Nehal Adel Mohamed  => 2016476
+- Nehal Adel Mohamed  => 20160476
 - Nada Ali Ebrahim    => 20160468
